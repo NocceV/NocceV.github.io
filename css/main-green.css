@@ -1468,7 +1468,7 @@ body > footer .copyrights {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #2eca7f;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -1512,13 +1512,13 @@ body > footer .copyrights {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2eca7f;
+  background-color: #ffffff;
   opacity: 0.8;
   z-index: 0;
 }
 
 .portfolio-grid figure:nth-child(even) a div:before {
-  background-color: #9e51f3;
+  background-color: #ffffff;
 }
 
 .portfolio-grid figure a:hover div {
@@ -1530,19 +1530,20 @@ body > footer .copyrights {
   display: block;
   font-size: 1rem;
   margin: 10px 0;
-  color: #fff;
+  color: #000000;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   z-index: 2;
 }
 
 .portfolio-grid figure a div small {
-  color: #fff;
+  color: #000000;
   position: absolute;
   bottom: 10px;
   left: 20px;
 }
 
 .portfolio-grid figure a div i {
-  color: #fff;
+  color: #000000;
   position: absolute;
   font-size: 18px;
   bottom: 14px;
