@@ -788,7 +788,8 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #2eca7f;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #4687d1;
 }
 
 .custom-page-content .block {
@@ -824,7 +825,7 @@ body > footer .copyrights {
 .custom-page-content .page-header.color-3 h2,
 .custom-page-content .page-header.color-4 h2 {
   color: #000000;
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .custom-page-content .page-content {
