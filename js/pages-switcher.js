@@ -54,8 +54,8 @@ var PageTransitions = function (a, e) {
     }
 
     function l(e, t) {
-        var c = "pt-page-moveFromRight",
-            l = "pt-page-moveToLeft";
+        var c = "pt-page-moveFromTop", // Alterado para entrada de cima
+            l = "pt-page-moveToBottom"; // Alterado para saída para baixo
     
         var f, v = p,
             k = v.data("current");
